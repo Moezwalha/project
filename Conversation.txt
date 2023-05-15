@@ -1,0 +1,17 @@
+Doctor: Name please?
+
+Deaf Patient: My name is Moez.
+
+Doctor: Can you tell me what symptoms do you have?
+
+Deaf Patient: I have been experiencing a lot of pain in my right ear.
+
+Doctor: Any fever or hearing problems?
+
+Deaf Patient: No fever, but my hearing is not clear.
+
+Doctor: You have an ear infection. I'll prescribe antibiotics. Any other concerns?
+
+Deaf Patient: No, thank you.
+
+Doctor: Welcome
